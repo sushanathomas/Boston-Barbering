@@ -1,6 +1,9 @@
 # Boston Barbering
 
-Boston Barbering is a responsive website created as part of my software engineering coursework.
+Boston Barbering is a responsive website I created for my software engineering coursework.
+
+## Site link: 
+https://boston-barbering.onrender.com
 
 <img width="1348" height="528" alt="Screenshot 2026-10-11 at 2 30 37 AM" src="https://github.com/user-attachments/assets/d4dbd1bc-f3d1-42e8-adcf-a03cbffbf83f" />
 
