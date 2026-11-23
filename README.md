@@ -1,6 +1,6 @@
 # Boston Barbering
 
-Boston Barbering is a responsive website I created for my software engineering coursework.
+Boston Barbering is a barbershop landing page for Warren Street Barbers in Roxbury, built for my software engineering coursework. The page presents haircut and shave prices, introduces the shop, and gives visitors its location, phone number, and opening hours.
 
 ## Site link: 
 https://sushanathomas.github.io/Boston-Barbering/
@@ -14,13 +14,9 @@ https://sushanathomas.github.io/Boston-Barbering/
 
 ## Features
 
-- Navigation menu
-- Services section
-- Contact information
-
-## Live Website
-
-Coming soon!
+- Haircut, fade, beard lineup, and shave pricing
+- Shop introduction and booking link
+- Address, phone number, and opening hours
 
 ## What I Learned
 
